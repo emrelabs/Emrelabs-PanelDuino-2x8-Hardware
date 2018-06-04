@@ -4027,7 +4027,7 @@ hardware</text>
 <part name="GND34" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C27" library="Elib-RLC-D-XT" deviceset="C?-*" device="1206" technology="100N" value="100n"/>
 <part name="GND36" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="XT2" library="Elib-RLC-D-XT" deviceset="XT-2PIN" device="-HC49" value="8MHz"/>
+<part name="XT2" library="Elib-RLC-D-XT" deviceset="XT-2PIN" device="-HC49" value="16Mhz"/>
 <part name="C28" library="Elib-RLC-D-XT" deviceset="C?-*" device="1206" technology="100N" value="100n"/>
 <part name="GND37" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C29" library="Elib-RLC-D-XT" deviceset="C" device="1206" value="22p"/>

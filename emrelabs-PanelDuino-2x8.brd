@@ -3,7 +3,7 @@
 <eagle version="8.5.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -2887,7 +2887,7 @@ design rules under a new name.</description>
 <attribute name="DIGIKEYPN" value="" x="44.75" y="-14.75" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MANUFACTURER" value="" x="44.75" y="-14.75" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="XT2" library="Elib-RLC-D-XT" package="XT-HC49" value="8MHz" x="52" y="22.5" rot="R90"/>
+<element name="XT2" library="Elib-RLC-D-XT" package="XT-HC49" value="16Mhz" x="52" y="22.5" rot="R90"/>
 <element name="C28" library="Elib-RLC-D-XT" package="C1206" value="100n" x="68.5" y="14.75" rot="R270">
 <attribute name="DIGIKEYPN" value="" x="80.5" y="49.75" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER" value="" x="80.5" y="49.75" size="1.778" layer="27" rot="R270" display="off"/>
